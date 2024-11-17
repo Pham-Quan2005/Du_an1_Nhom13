@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Duan1"
+		},
+		{
+			"path": "../../../Duan1 - Copy"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Duan1"
+	}
+}
